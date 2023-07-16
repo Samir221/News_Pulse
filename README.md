@@ -3,7 +3,7 @@ A news curator app that relevant news articles with a personalized stock watchli
 
 # News Pulse
 
-![Project Logo](logo.png)
+![Project Logo](src/clients/customer/assets/images/logo_art "fulllogo.png")
 
 ## Table of Contents
 1. [Introduction](#introduction)

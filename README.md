@@ -1,7 +1,7 @@
 # News_Pulse
 A news curator app that relevant news articles with a personalized stock watchlist
 
-![Project Logo](src/clients/customer/assets/images/logo_art/fulllogo.png "Project Logo")
+<img src="src/clients/customer/assets/images/logo_art/fulllogo.png" alt="Project Logo" style="width: 200px;"/>
 
 ## Table of Contents
 1. [Introduction](#introduction)

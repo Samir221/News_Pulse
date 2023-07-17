@@ -5,6 +5,7 @@ import 'package:newspulse_app/controllers/symbol_management.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:newspulse_app/controllers/price_fetcher.dart';
 import 'package:newspulse_ui/newspulse_ui.dart';
+import 'package:flutter_dotenv/flutter_dotenv.dart' as dotenv;
 
 class SymbolSearchScreen extends StatefulWidget {
   final String userID;
@@ -32,8 +33,8 @@ class _SymbolSearchScreenState extends State<SymbolSearchScreen> {
   late String defaultWatchlist;
 
   Future<void> searchSymbols(String keywords) async {
-    final apiKey = '2NJ8KCYUHOQGCCG1';
-    final apiUrl =
+    final apikey = dotenv.env['apikey_stockSymbols'];
+    final apiUrl = 
         'https://www.alphavantage.co/query?function=SYMBOL_SEARCH&keywords=$keywords&apikey=$apiKey';
 
     final response = await http.get(Uri.parse(apiUrl));

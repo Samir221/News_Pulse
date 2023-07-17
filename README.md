@@ -42,10 +42,10 @@ The client application is built in Flutter. Here is how it works:
 Here are some screenshots from the current version of News Pulse:
 
 <p float="left">
-  <img src="src/clients/customer/assets/images/screenshots/splash_screen.jpg" alt="Splash Screen" width="200"/>
-  <img src="src/clients/customer/assets/images/screenshots/login screen.jpg" alt="Login Screen" width="200"/>
-  <img src="src/clients/customer/assets/images/screenshots/watchlist screen.jpg" alt="Watchlist Screen" width="200"/>
-  <img src="src/clients/customer/assets/images/screenshots/symbol search screen.jpg" alt="Symbol Search Screen" width="200"/>
+  <img src="src/clients/customer/assets/images/app screenshots/splash screen.jpg" alt="Splash Screen" width="200"/>
+  <img src="src/clients/customer/assets/images/app screenshots/login screen.jpg" alt="Login Screen" width="200"/>
+  <img src="src/clients/customer/assets/images/app screenshots/watchlist screen.jpg" alt="Watchlist Screen" width="200"/>
+  <img src="src/clients/customer/assets/images/app screenshots/symbol search screen.jpg" alt="Symbol Search Screen" width="200"/>
 </p>
 ... 
 

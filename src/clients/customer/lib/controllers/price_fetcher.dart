@@ -3,6 +3,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
+import 'package:flutter_dotenv/flutter_dotenv.dart' as dotenv;
 
 class PriceFetcher with ChangeNotifier {
   Map<String, String> priceList = {};
@@ -13,7 +14,7 @@ Future<void> updatePrices(
       print('Symbols list is null or empty');
       return;
     }
-    final apiKey = '728883d73a69cfac83c4ba8b7d10f076';
+    dotenv.env['apikey_financialData'];
     final apiUrl =
         'https://financialmodelingprep.com/api/v3/quote/${symbols.join(",")}?apikey=$apiKey';
 

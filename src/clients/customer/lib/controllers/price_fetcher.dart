@@ -14,7 +14,7 @@ Future<void> updatePrices(
       print('Symbols list is null or empty');
       return;
     }
-    dotenv.env['apikey_financialData'];
+    final apikey = dotenv.env['apikey_financialData'];
     final apiUrl =
         'https://financialmodelingprep.com/api/v3/quote/${symbols.join(",")}?apikey=$apiKey';
 

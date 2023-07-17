@@ -7,7 +7,7 @@ A news curator app that relevant news articles with a personalized stock watchli
 1. [Introduction](#introduction)
 2. [Backend Functionality](#backend-functionality)
 3. [Client Functionality](#client-functionality)
-4. [Screenshots](#screenshots)
+4. [Sample Screenshots](#screenshots)
 5. [Future Improvements](#future-improvements)
 6. [Prerequisites and Installation](#prerequisites-and-installation)
 7. [License](#license)
@@ -37,7 +37,7 @@ The client application is built in Flutter. Here is how it works:
 - Holding down a stock on the watchlist will display all relevant news articles for that stock. (Note: This feature is currently a work in progress)
 
 <a name="screenshots"></a>
-## Screenshots
+## Sample Screenshots
 
 Here are some screenshots from the current version of News Pulse:
 

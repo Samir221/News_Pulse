@@ -49,6 +49,13 @@ Here are some screenshots from the current version of News Pulse:
 </p>
 ... 
 
+
+|    |    |    |    |
+|:---:|:---:|:---:|:---:|
+| <img src="src/clients/customer/assets/app_screenshots/splash_screen.jpg" alt="Splash Screen" width="200"/> | <img src="src/clients/customer/assets/app_screenshots/login_screen.jpg" alt="Login Screen" width="200"/> | <img src="src/clients/customer/assets/app_screenshots/watchlist_screen.jpg" alt="Watchlist Screen" width="200"/> | <img src="src/clients/customer/assets/app_screenshots/symbol_search_screen.jpg" alt="Symbol Search Screen" width="200"/> |
+
+
+
 <a name="future-improvements"></a>
 ## Future Improvements
 

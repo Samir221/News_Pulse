@@ -62,7 +62,8 @@ In future iterations of News Pulse, the following improvements are planned:
 <a name="prerequisites-and-installation"></a>
 ## Prerequisites and Installation
 
-The frontend of the application runs on Flutter, and the backend is all handled in Python through the cloud.
+The frontend of the application runs on Flutter, and the backend is all handled in Python through the cloud. A .env will need to be created 
+to import all the necessary API keys.
 
 <a name="license"></a>
 ## License

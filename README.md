@@ -7,9 +7,10 @@ A news curator app that relevant news articles with a personalized stock watchli
 1. [Introduction](#introduction)
 2. [Backend Functionality](#backend-functionality)
 3. [Client Functionality](#client-functionality)
-4. [Future Improvements](#future-improvements)
-5. [Prerequisites and Installation](#prerequisites-and-installation)
-6. [License](#license)
+4. [Screenshots](#screenshots)
+5. [Future Improvements](#future-improvements)
+6. [Prerequisites and Installation](#prerequisites-and-installation)
+7. [License](#license)
 
 <a name="introduction"></a>
 ## Introduction
@@ -35,6 +36,19 @@ The client application is built in Flutter. Here is how it works:
 - Stocks can be added or removed from the watchlist. 
 - Holding down a stock on the watchlist will display all relevant news articles for that stock. (Note: This feature is currently a work in progress)
 
+<a name="screenshots"></a>
+## Screenshots
+
+Here are some screenshots from the current version of News Pulse:
+
+<p float="left">
+  <img src="src/clients/customer/assets/images/screenshots/splash_screen.jpg" alt="Splash Screen" width="200"/>
+  <img src="src/clients/customer/assets/images/screenshots/login screen.jpg" alt="Login Screen" width="200"/>
+  <img src="src/clients/customer/assets/images/screenshots/watchlist screen.jpg" alt="Watchlist Screen" width="200"/>
+  <img src="src/clients/customer/assets/images/screenshots/symbol search screen.jpg" alt="Symbol Search Screen" width="200"/>
+</p>
+... 
+
 <a name="future-improvements"></a>
 ## Future Improvements
 
@@ -52,3 +66,4 @@ The frontend of the application runs on Flutter, and the backend is all handled 
 ## License
 
 This project is licensed under the terms of the MIT license.
+

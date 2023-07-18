@@ -1,4 +1,4 @@
-<img src="src/clients/customer/assets/images/logo_art/fulllogo.png" alt="Project Logo" style="width: 450px;"/>
+<img src="src/clients/customer/assets/images/logo_art/fulllogo_transparent.png" alt="Project Logo" style="width: 450px;"/>
 
 # News_Pulse
 A news curator app that associates relevant news articles with a personalized stock watchlist
